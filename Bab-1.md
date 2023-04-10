@@ -1,0 +1,2 @@
+# Bab 1 - Pendahuluan
+Perkembangan anak usia dini adalah proses yang kompleks dan dipengaruhi oleh banyak faktor. Beberapa faktor yang mempengaruhi perkembangan anak meliputi faktor biologis, psikologis, dan lingkungan. Faktor lingkungan, seperti kebersihan rumah, kebiasaan keluarga, dan keamanan lingkungan, diyakini mempengaruhi perkembangan anak usia dini. Oleh karena itu, tujuan penelitian ini adalah untuk mengidentifikasi pengaruh lingkungan terhadap perkembangan anak usia dini.

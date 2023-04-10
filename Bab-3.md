@@ -1,0 +1,2 @@
+# Bab 3 - Metode Penelitian
+Penelitian ini menggunakan metode survei dengan menggunakan kuesioner sebagai alat pengumpulan data. Sampel penelitian terdiri dari 100 orang orangtua anak usia dini yang dipilih secara acak dari wilayah Jakarta Barat. Data dianalisis menggunakan analisis regresi linier.

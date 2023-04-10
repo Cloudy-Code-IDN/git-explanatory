@@ -1,0 +1,2 @@
+## Abstrak:
+Penelitian ini bertujuan untuk mengidentifikasi pengaruh lingkungan terhadap perkembangan anak usia dini. Metode penelitian yang digunakan adalah survei dengan menggunakan kuesioner yang disebarkan kepada 100 orang orangtua anak usia dini. Hasil penelitian menunjukkan bahwa faktor lingkungan seperti kebersihan rumah, kebiasaan keluarga, dan keamanan lingkungan berpengaruh signifikan terhadap perkembangan anak usia dini. Implikasi praktis dari penelitian ini adalah perlunya peran orangtua dalam menciptakan lingkungan yang sehat dan aman bagi anak-anak mereka.

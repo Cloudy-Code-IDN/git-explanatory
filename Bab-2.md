@@ -1,4 +1,0 @@
-# Bab 2 - Tinjauan Pustaka
-Dalam literatur, pengasuhan dapat dibedakan menjadi beberapa jenis, seperti pengasuhan otoriter, pengasuhan permisif, dan pengasuhan demokratis. Pengasuhan otoriter cenderung menghasilkan anak yang kurang percaya diri dan cenderung menuruti perintah tanpa berpikir kritis. Pengasuhan permisif dapat menghasilkan anak yang cenderung manja dan sulit menyesuaikan diri dengan lingkungan. Sementara itu, pengasuhan demokratis dianggap sebagai pola asuh yang paling ideal karena mendorong anak untuk mengembangkan keterampilan sosial dan emosional yang sehat.
-
-Selain itu, faktor lingkungan juga dapat mempengaruhi perkembangan anak. Faktor lingkungan meliputi kondisi fisik, sosial, dan ekonomi dari lingkungan sekitar anak. Lingkungan yang sehat dan aman dapat membantu anak tumbuh dan berkembang secara optimal.

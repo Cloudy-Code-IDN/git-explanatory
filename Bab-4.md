@@ -1,8 +1,0 @@
-# Bab 4 - Hasil dan Analisis
-Pada bab ini, akan disajikan hasil penelitian yang telah dilakukan terhadap 100 orang orangtua yang memiliki anak usia dini. Dalam analisis data, akan digunakan teknik regresi untuk menentukan pengaruh pengasuhan terhadap perkembangan anak, serta dilakukan analisis untuk menentukan apakah faktor lingkungan memiliki pengaruh signifikan terhadap perkembangan anak.
-
-Hasil analisis menunjukkan bahwa pola asuh yang demokratis memiliki pengaruh yang signifikan terhadap perkembangan anak usia dini. Anak yang mendapatkan pengasuhan demokratis cenderung lebih mandiri, percaya diri, dan memiliki keterampilan sosial dan emosional yang sehat. Sementara itu, pengasuhan otoriter dan permisif tidak memiliki pengaruh signifikan terhadap perkembangan anak.
-
-Selain itu, hasil analisis juga menunjukkan bahwa faktor lingkungan, terutama faktor sosial dan ekonomi, memiliki pengaruh yang signifikan terhadap perkembangan anak. Anak yang berasal dari lingkungan yang sehat dan aman, serta memiliki akses terhadap pendidikan yang memadai, cenderung memiliki perkembangan yang lebih baik.
-
-Berdasarkan hasil penelitian ini, dapat disimpulkan bahwa pengasuhan yang demokratis dan lingkungan yang sehat dan aman memiliki pengaruh yang signifikan terhadap perkembangan anak usia dini. Oleh karena itu, disarankan bagi orangtua dan pengasuh untuk memperhatikan pola asuh yang tepat dan menciptakan lingkungan yang sehat dan aman bagi anak-anak. Selain itu, penelitian ini juga menunjukkan perlunya upaya untuk meningkatkan akses pendidikan bagi anak-anak dari latar belakang sosial-ekonomi yang kurang mampu, guna meningkatkan perkembangan mereka.

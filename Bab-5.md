@@ -1,6 +1,0 @@
-# Bab 5 - Kesimpulan dan Saran
-Penelitian ini menunjukkan bahwa faktor lingkungan mempengaruhi perkembangan anak usia dini. Implikasi praktis dari penelitian ini adalah perlunya peran orangtua dalam menciptakan lingkungan yang sehat dan aman bagi anak-anak mereka. Penelitian selanjutnya dapat dilakukan dengan menambahkan faktor-faktor lingkungan lainnya yang berpengaruh pada perkembangan anak usia dini. Selain itu, penelitian juga dapat dilakukan dengan menggunakan metode observasi untuk mengukur faktor lingkungan secara langsung. Hal ini dapat memberikan hasil yang lebih akurat dalam menentukan pengaruh faktor lingkungan terhadap perkembangan anak usia dini.
-
-Saran untuk orangtua adalah pentingnya menciptakan lingkungan yang sehat dan aman bagi anak-anak mereka. Orangtua dapat memperhatikan kebersihan rumah, mengajarkan kebiasaan yang baik, dan memastikan keamanan lingkungan sekitar rumah. Dengan demikian, diharapkan anak-anak dapat tumbuh dan berkembang secara optimal.
-
-Kesimpulannya, penelitian ini menunjukkan bahwa faktor lingkungan berpengaruh signifikan terhadap perkembangan anak usia dini. Oleh karena itu, penting bagi orangtua untuk menciptakan lingkungan yang sehat dan aman bagi anak-anak mereka. Penelitian selanjutnya dapat dilakukan dengan menambahkan faktor-faktor lingkungan lainnya yang mempengaruhi perkembangan anak usia dini.

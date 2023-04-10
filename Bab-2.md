@@ -1,0 +1,2 @@
+# Bab 2 - Tinjauan Pustaka
+Studi sebelumnya menunjukkan bahwa lingkungan yang sehat dan aman sangat penting bagi perkembangan anak usia dini. Beberapa studi juga menemukan bahwa kebiasaan keluarga dan lingkungan fisik memiliki dampak signifikan pada perkembangan anak.
